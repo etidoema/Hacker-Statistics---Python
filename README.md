@@ -1,1 +1,3 @@
 # Hacker-Statistics---Python
+
+Using python to simulate a dice game....
